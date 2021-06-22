@@ -2,7 +2,7 @@ package es.florida;
 
 import java.io.IOException;
 import java.net.Socket;
-
+// PowerShell, java -jar archivo
 public class DronController {
 
     static final int port = 9876;
