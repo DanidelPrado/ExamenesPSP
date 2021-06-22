@@ -3,6 +3,7 @@ package es.florida;
 import java.io.IOException;
 import java.net.Socket;
 // PowerShell, java -jar archivo
+// Activar o desactivar características de Windows y marcar Cliente Telnet
 public class DronController {
 
     static final int port = 9876;
