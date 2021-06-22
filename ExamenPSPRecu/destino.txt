@@ -1,0 +1,12 @@
+sincronizar
+extraer
+refactorizar
+constantes
+variables
+planificador
+hardware
+multitarea
+ejecutable
+pausar
+prioridades
+
